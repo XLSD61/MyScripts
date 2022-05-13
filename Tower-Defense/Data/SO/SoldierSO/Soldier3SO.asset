@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 674866031ad03fa4b888738daa1585a6, type: 3}
+  m_Name: Soldier3SO
+  m_EditorClassIdentifier: 
+  soliderID: 3
+  damage: 1.5
+  fireTime: 0.5
+  baseFireTime: 0.5
+  soldiers:
+  - {fileID: 4580185946484517379, guid: 6253ae64696c4154f84edd5e30f57463, type: 3}
+  - {fileID: 8805557666419140564, guid: 5943b258aab9f2c45ba17a36f8bfbba7, type: 3}
+  - {fileID: 3501790611892236645, guid: d1143a32e55ac9145a9e1fcbbbc8705a, type: 3}
+  - {fileID: 1812926354856925254, guid: 6c476e9d8d752234ab836f80d7a47913, type: 3}
+  - {fileID: 4081489113260069670, guid: ffd1a172f8411d74a9929c8adc7f0114, type: 3}

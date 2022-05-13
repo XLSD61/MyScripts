@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34bc25956ee946c4d81860675fd04a7f, type: 3}
+  m_Name: EnemySO
+  m_EditorClassIdentifier: 
+  meleeEnemys:
+  - {fileID: 5684572330877714290, guid: a8edb609c61d2044498564430025be5c, type: 3}
+  - {fileID: 6871545254980263927, guid: 9242d675b3e04904b83293b9162be03b, type: 3}
+  - {fileID: 3990683146652923095, guid: 7013d486cb0525545a1e77282638d4a1, type: 3}
+  - {fileID: 8862946032548709103, guid: 3cb6328b716e9e54a8ad1d15bc8a1fb3, type: 3}
+  - {fileID: 6855349497818410737, guid: 0c4ed744347dcf4449f893b3302b4eab, type: 3}
+  rangedEnemys:
+  - {fileID: 2726991909997304832, guid: 50558d3e56b726c49b8f5b459bceb774, type: 3}
+  - {fileID: 4403877182099248611, guid: f259a2f8f2a4b724f91633d7ec2b55fc, type: 3}
+  - {fileID: 1038473164926888533, guid: 4fa738bdb97c2f542b79d2031d50e66c, type: 3}
+  - {fileID: 775213020692885240, guid: 9aa5394e2e707204288315cf0b93cfba, type: 3}
+  - {fileID: 8564848961508609388, guid: 414f79788f797ca4cb6901ae04e99e74, type: 3}
