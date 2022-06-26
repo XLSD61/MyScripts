@@ -1,0 +1,23 @@
+    //public void AddBrick(GameObject brick)
+    //{
+    //    brick.transform.DOKill();
+    //    brick.transform.SetParent(dollStack.transform);
+    //    brick.transform.DORotate(Vector3.zero, .5f);
+    //    //brick.transform.DOScale(CollectBrickSize, JumpDuration);
+    //    Vector3 targetPos = Vector3.zero;
+    //    int index = dollList.Count;
+    //    targetPos.x = (index % StackHorizontalCount) - (StackHorizontalCount / 2);
+    //    targetPos.y = index / (StackHorizontalCount * StackVerticalCount);
+    //    targetPos.z = (index / StackHorizontalCount) % (StackVerticalCount);
+    //    targetPos.x *=2f;
+    //    targetPos.y *=2f;
+    //    targetPos.z *=2f;
+    //    brick.transform.DOLocalJump(targetPos, 1, 1, .5f).OnComplete(() =>
+    //    {
+    //        //ParticleSystem particleSystem = brick.transform.GetChild(0).GetComponent<ParticleSystem>();
+    //        //particleSystem.gameObject.SetActive(true);
+    //        //particleSystem.Play();
+    //    });
+    //    // onCollectBrickSound?.Invoke();
+    //    dollList.Add(brick);
+    //}
